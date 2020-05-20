@@ -1,3 +1,3 @@
 Select *
 From schema
-Where Type = 'Viewssss'
+Where Type = 'Views'
